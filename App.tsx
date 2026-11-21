@@ -1,10 +1,11 @@
 import { useCallback, useEffect, useState } from 'react';
-import { AdminPanel } from './components/AdminPanel';
-import { AuthModal } from './components/AuthModal';
-import { AviatorGame } from './components/AviatorGame';
-import { AviatorPredictor } from './components/AviatorPredictor';
-import { GameLobby } from './components/GameLobby';
-import { WalletModal } from './components/WalletModal';
+import { AdminPanel } from './AdminPanel';
+import { AuthModal } from './AuthModal';
+import { AviatorGame } from './AviatorGame';
+import { AviatorPredictor } from './AviatorPredictor';
+import { GameLobby } from './GameLobby';
+import { WalletModal } from './WalletModal';
+
 import {
   DepositRequest,
   GameItem,
