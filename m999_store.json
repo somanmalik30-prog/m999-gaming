@@ -1,0 +1,25 @@
+{
+  "adminCredentialHash": "8e003125312f41c8f7a9f64a4475d66e:cd1124152320f7b103ed9623fa260e85502d9833a0022a88f68d0ba3549eb1ef77394ba8fb9464b7af61e9fbf4004c53c812ee9e4156375e9f65f5e2e38b26ef",
+  "paymentSettings": {
+    "accountName": "Muhammad Ali",
+    "accountNumber": "0300-1234567",
+    "paymentMethod": "EasyPaisa / JazzCash",
+    "instructions": "Transfer exact amount to the account above, take a screenshot of the confirmation receipt, and upload it below.",
+    "minDeposit": 100,
+    "minWithdrawal": 500,
+    "updatedAt": "2026-11-20T23:40:05.620Z"
+  },
+  "users": [
+    {
+      "id": "usr_c3bb4eda46d0",
+      "name": "Donb",
+      "phone": "03125224136",
+      "passwordHash": "f4a7f5843371c1d4a5bca1b08443f92d:5f4a0cff2115066bcd5ab394c29582e56e113232b68d0e8737cd1c92ed47f93b2884a5210cf6e3e68619b39f9176d3a5ea9204f81bf7bc235a51bf43b2d284ef",
+      "balance": 0,
+      "createdAt": "2026-11-21T00:29:59.611Z"
+    }
+  ],
+  "deposits": [],
+  "withdrawals": [],
+  "aviatorBets": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "M999 Gaming",
+  "description": "M999 Gaming Portal with live Aviator crash game, showcase games, manual deposit and withdrawal with screenshot verification, and a dedicated Admin Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
